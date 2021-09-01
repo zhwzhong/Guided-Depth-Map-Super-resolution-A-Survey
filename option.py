@@ -29,7 +29,7 @@ parser.add_argument('--train_ratio', type=float, default=1) # different training
 parser.add_argument('--data_range', type=float, default=1)
 parser.add_argument('--data_augment', type=bool, default=True)
 parser.add_argument('--dataset_name', type=str, default='RD') # Flash NYU CAVE Flash NIR MPI
-parser.add_argument('--down_type', type=str, default='bicubic') # nearest bic
+parser.add_argument('--down_type', type=str, default='nearest') # nearest bic
 parser.add_argument('--down_direction', type=str, default='last')  # center  last
 parser.add_argument('--test_set', type=str, default='test+Lu+Middlebury')
 parser.add_argument('--num_res', type=int, default=2)
