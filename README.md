@@ -50,7 +50,7 @@ This repository is an official PyTorch implementation of the paper "**Deep Atten
 You can directly download the trained model and put it in *checkpoints*:
 
 - DAGF (Nearest):[4](https://drive.google.com/file/d/1lFmYV_c2DDhgk3HHT5jK8JcMn0h4lLYC/view?usp=sharing), [8](https://drive.google.com/file/d/1NHAzCB5tCScC2__8IqnvByr3UUkAxERT/view?usp=sharing), [16](https://drive.google.com/file/d/1pcGtFmFUmMWNkKRdBWoKJFZ9f5vswbTX/view?usp=sharing)
-- DAGF (Bicubic): [4](https://drive.google.com/file/d/1lFmYV_c2DDhgk3HHT5jK8JcMn0h4lLYC/view?usp=sharing), [8](https://drive.google.com/file/d/1NHAzCB5tCScC2__8IqnvByr3UUkAxERT/view?usp=sharing), [16](https://drive.google.com/file/d/1pcGtFmFUmMWNkKRdBWoKJFZ9f5vswbTX/view?usp=sharing)
+- DAGF (Bicubic): [4](https://drive.google.com/file/d/1q0ASMBCkjgfftS8seOtdD7JQtHbHqL5q/view?usp=sharing), [8](https://drive.google.com/file/d/1bo2fPg-z6XoScuE6IVWQLWIMAnEuVLnC/view?usp=sharing), [16](https://drive.google.com/file/d/102c7Cz4v48i4cEKGvtG1nTN-ZhPxSnR2/view?usp=sharing)
 
 ### Train
 
