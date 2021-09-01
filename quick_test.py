@@ -20,7 +20,7 @@ from data import get_dataloader
 from importlib import import_module
 
 args.scale = 8
-args.down_type = 'nearest'
+args.down_type = 'bicubic'
 
 device = torch.device('cpu' if args.cpu else 'cuda')
 module = import_module('models.' + args.model_name.lower())
