@@ -73,7 +73,7 @@ python quick_test.py
 ### Acknowledgments
 
 - Thank for [NYU](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html), [Lu](http://web.cecs.pdx.edu/~fliu/project/depth-enhance/), [Middlebury](http://web.cecs.pdx.edu/~fliu/project/depth-enhance/), [Sintel](http://sintel.is.tue.mpg.de/) and [DUT-OMRON](http://saliencydetection.net/dut-omron/) datasets.
-# - Thank authors of [GF](https://github.com/wuhuikai/DeepGuidedFilter), [DJFR](https://sites.google.com/site/yijunlimaverick/deepjointfilter), [DKN](https://github.com/cvlab-yonsei/dkn), [PacNet](https://github.com/NVlabs/pacnet), [DSRN](http://sintel.is.tue.mpg.de/), [JBU](http://sintel.is.tue.mpg.de/), [Yang](http://sintel.is.tue.mpg.de/), [DGDIE](http://sintel.is.tue.mpg.de/), [DMSG](http://sintel.is.tue.mpg.de/), [TGV](http://sintel.is.tue.mpg.de/), [SDF](http://sintel.is.tue.mpg.de/)  and [FBS](http://sintel.is.tue.mpg.de/)  for sharing their codes.
+% - Thank authors of [GF](https://github.com/wuhuikai/DeepGuidedFilter), [DJFR](https://sites.google.com/site/yijunlimaverick/deepjointfilter), [DKN](https://github.com/cvlab-yonsei/dkn), [PacNet](https://github.com/NVlabs/pacnet), [DSRN](http://sintel.is.tue.mpg.de/), [JBU](http://sintel.is.tue.mpg.de/), [Yang](http://sintel.is.tue.mpg.de/), [DGDIE](http://sintel.is.tue.mpg.de/), [DMSG](http://sintel.is.tue.mpg.de/), [TGV](http://sintel.is.tue.mpg.de/), [SDF](http://sintel.is.tue.mpg.de/)  and [FBS](http://sintel.is.tue.mpg.de/)  for sharing their codes.
 
 ### TO DO
 
