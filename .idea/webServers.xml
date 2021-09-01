@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c3371300-c883-4401-9abc-9ca89ca36c9d" name="dagf" url="http://192.168.113.53">
+        <fileTransfer host="192.168.113.53" port="3090" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="3090" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

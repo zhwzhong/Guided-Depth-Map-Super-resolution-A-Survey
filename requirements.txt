@@ -1,0 +1,13 @@
+os
+cv2
+math
+tqdm
+numpy
+random
+torchnet
+torch>=1.2
+prettytable
+torchvision
+opencv-python
+
+
