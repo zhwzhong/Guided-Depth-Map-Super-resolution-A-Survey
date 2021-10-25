@@ -16,7 +16,9 @@ Guided filter is a fundamental tool in computer vision and computer graphics whi
 This repository is an official PyTorch implementation of the paper "**Deep Attentional Guided Filtering**"
 
 
-## Our method won the first Stage of Real DSR Challenge in ICMR 2021. The detail information can be fond [hers](https://icmr21-realdsr-challenge.github.io/#Leaderboard).
+## Our method won the first Stage of Real DSR Challenge in ICMR 2021. 
+
+The detail information can be fond [here](https://icmr21-realdsr-challenge.github.io/#Leaderboard).
 
 ## :wrench: Dependencies and Installation
 
