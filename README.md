@@ -17,10 +17,6 @@ Guided filter is a fundamental tool in computer vision and computer graphics whi
 
 This repository is an official PyTorch implementation of the paper "**Deep Attentional Guided Filtering**"
 
-## :medal_sports:Our method won the Real DSR Challenge in ICMR 2021. 
-
-The detail information can be fond [here](https://icmr21-realdsr-challenge.github.io/#Leaderboard).
-
 ## :wrench: Dependencies and Installation
 
 - Python >= 3.5 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
@@ -93,6 +89,10 @@ python quick_test.py
    - PAC: [4](https:), [8](https:), [16](https:)
    - DKN: [4](https:), [8](https:), [16](https:)
 2. Release the experimental resutls of the compared models.
+
+## :medal_sports:Our method won the Real DSR Challenge in ICMR 2021. 
+
+The detail information can be fond [here](https://icmr21-realdsr-challenge.github.io/#Leaderboard).
 
 :e-mail: Contact
 
