@@ -1,4 +1,5 @@
 ### :book: Deep Attentional Guided Image Filtering
+
 > [[Paper](https://)] 
 > [Zhiwei Zhong](https://github.com/zhwzhong), [Xianming Liu](http://homepage.hit.edu.cn/xmliu?lang=en), [Junjun Jiang](https://scholar.google.com/citations?user=WNH2_rgAAAAJ&hl=en), [Debin Zhao](https://scholar.google.com/citations?user=QXyj0hkAAAAJ&hl=en) ,[Xiangyang Ji](https://ieeexplore.ieee.org/author/37271425200)<br>Harbin Institute of Technology, Tsinghua University
 
@@ -11,15 +12,12 @@ Guided filter is a fundamental tool in computer vision and computer graphics whi
 </p>
 
 
+
 ---
 
 This repository is an official PyTorch implementation of the paper "**Deep Attentional Guided Filtering**"
 
-
-✨
-:sparkles:## News
-
-Our method won the Real DSR Challenge in ICMR 2021. 
+## :medal_sports:Our method won the Real DSR Challenge in ICMR 2021. 
 
 The detail information can be fond [here](https://icmr21-realdsr-challenge.github.io/#Leaderboard).
 
@@ -33,16 +31,16 @@ The detail information can be fond [here](https://icmr21-realdsr-challenge.githu
 
 1. Clone repo
 
-    ```bash
-    git https://github.com/zhwzhong/DAGF.git
-    cd DAGF
-    ```
+   ```bash
+   git https://github.com/zhwzhong/DAGF.git
+   cd DAGF
+   ```
 
-1. Install dependent packages
+2. Install dependent packages
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Dataset
 
@@ -71,6 +69,7 @@ You can also train by yourself:
 *Pay attention to the settings in the option (e.g. gpu id, model_name).*
 
 ### Test
+
 We provide the processed test data in 'test_data' and pre-trained models in 'pre_trained'
 With the trained model,  you can test and save depth images.
 
@@ -81,7 +80,7 @@ python quick_test.py
 ### Acknowledgments
 
 - Thank for [NYU](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html), [Lu](http://web.cecs.pdx.edu/~fliu/project/depth-enhance/), [Middlebury](http://web.cecs.pdx.edu/~fliu/project/depth-enhance/), [Sintel](http://sintel.is.tue.mpg.de/) and [DUT-OMRON](http://saliencydetection.net/dut-omron/) datasets.
-% - Thank authors of [GF](https://github.com/wuhuikai/DeepGuidedFilter), [DJFR](https://sites.google.com/site/yijunlimaverick/deepjointfilter), [DKN](https://github.com/cvlab-yonsei/dkn), [PacNet](https://github.com/NVlabs/pacnet), [DSRN](http://sintel.is.tue.mpg.de/), [JBU](http://sintel.is.tue.mpg.de/), [Yang](http://sintel.is.tue.mpg.de/), [DGDIE](http://sintel.is.tue.mpg.de/), [DMSG](http://sintel.is.tue.mpg.de/), [TGV](http://sintel.is.tue.mpg.de/), [SDF](http://sintel.is.tue.mpg.de/)  and [FBS](http://sintel.is.tue.mpg.de/)  for sharing their codes.
+  % - Thank authors of [GF](https://github.com/wuhuikai/DeepGuidedFilter), [DJFR](https://sites.google.com/site/yijunlimaverick/deepjointfilter), [DKN](https://github.com/cvlab-yonsei/dkn), [PacNet](https://github.com/NVlabs/pacnet), [DSRN](http://sintel.is.tue.mpg.de/), [JBU](http://sintel.is.tue.mpg.de/), [Yang](http://sintel.is.tue.mpg.de/), [DGDIE](http://sintel.is.tue.mpg.de/), [DMSG](http://sintel.is.tue.mpg.de/), [TGV](http://sintel.is.tue.mpg.de/), [SDF](http://sintel.is.tue.mpg.de/)  and [FBS](http://sintel.is.tue.mpg.de/)  for sharing their codes.
 
 ### TO DO
 
