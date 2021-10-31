@@ -94,6 +94,10 @@ python quick_test.py
 
 The detail information can be fond [here](https://icmr21-realdsr-challenge.github.io/#Leaderboard).
 
+<p align="center">
+  <img src="https://github.com/zhwzhong/DAGF/blob/main/res.png">
+</p>
+
 :e-mail: Contact
 
 If you have any question, please email `zhwzhong@hit.edu.cn` 
