@@ -90,7 +90,7 @@ python quick_test.py
    - DKN: [4](https:), [8](https:), [16](https:)
 2. Release the experimental resutls of the compared models.
 
-## News :medal_sports:Our method won the Real DSR Challenge in ICMR 2021. 
+## News!!! :medal_sports:Our method won the Real DSR Challenge in ICMR 2021. 
 
 The detail information can be fond [here](https://icmr21-realdsr-challenge.github.io/#Leaderboard).
 
