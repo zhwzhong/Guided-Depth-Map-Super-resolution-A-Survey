@@ -76,7 +76,7 @@ parser.add_argument('--filter_size', type=int, default=3)  # 生成的kernel的�
 
 parser.add_argument('--re_load', action='store_true')
 parser.add_argument('--load_best', action='store_true')
-parser.add_argument('--model_name', type=str, default='DAGF')  # SVLRM FDKN DKN BestNet PacLite PacJointUpsample DJF DJFR DGN PMPAN GF
+parser.add_argument('--model_name', type=str, default='DAGF')  # SVLRM FDKN DKN BestNet PacLite PacJointUpsample DJF DJFR DGN GF
 
 
 parser.add_argument('--file_name', type=str, default='')
