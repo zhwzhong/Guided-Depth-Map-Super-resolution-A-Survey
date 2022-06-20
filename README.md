@@ -17,7 +17,7 @@ Guided filter is a fundamental tool in computer vision and computer graphics whi
 
 This repository is an official PyTorch implementation of the paper "**Deep Attentional Guided Filtering**"
 
-##News :wrench: Dependencies and Installation
+### News :wrench: Dependencies and Installation
 
 - Python >= 3.5 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch >= 1.2(https://pytorch.org/
