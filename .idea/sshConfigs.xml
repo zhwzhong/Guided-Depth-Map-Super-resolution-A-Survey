@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.113.53" id="384ae04b-90e7-4a7a-93d5-31a2ba570890" port="3090" customName="dagf" nameFormat="CUSTOM">
+        <option name="customName" value="dagf" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
