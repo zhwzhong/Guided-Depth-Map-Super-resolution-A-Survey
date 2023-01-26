@@ -31,7 +31,7 @@
 ### Train
 
 ```
- python main.py  --scale=16  --save_real --dataset_name='NYU' --model_name=MODEL NAME
+ python main.py  --scale=SCALE --dataset_name='NYU' --model_name=MODEL NAME
 ```
 
 ## Awesome Guided Depth Map Super-resolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
