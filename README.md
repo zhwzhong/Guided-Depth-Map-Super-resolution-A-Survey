@@ -1,5 +1,5 @@
 ### :book: Guided Depth Map Super-resolution: A Survey
-
+> Submitted to ACM Computing Surveys.
 #### 
 
 ### Installation
