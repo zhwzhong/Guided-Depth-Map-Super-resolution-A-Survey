@@ -1,7 +1,9 @@
 ### :book: Guided Depth Map Super-resolution: A Survey
 > Submitted to ACM Computing Surveys.
 #### 
-
+<p align="center">
+  <img src="https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey/blob/main/f1.jpg">
+</p>
 ### Installation
 
 1. Clone repo
