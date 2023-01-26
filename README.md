@@ -32,7 +32,7 @@
  python main.py  --scale=16  --save_real --dataset_name='NYU' --model_name=MODEL NAME
 ```
 
-3. Awesome Guided Depth Map Super-resolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Guided Depth Map Super-resolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
    | Type        |        F        |      P      |       L        |
    | :---------- | :-------------: | :---------: | :------------: |
@@ -41,5 +41,5 @@
    
 
    
-
+   ### 2023 Venues
    ### 2022 Venues
