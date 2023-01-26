@@ -48,7 +48,7 @@ def get_memory(num_gpu):
     sum_gpus = 0
     for gpu in gpu_memory:
         used_memory = gpu['memory.total'] - gpu['memory.free']
-        if used_memory < 8000:
+        if used_memory < 20000:
             sum_gpus += 1
         use_memory.append(used_memory)
         # print(used_memory)

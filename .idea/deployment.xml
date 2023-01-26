@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="dagf">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhwzhong@192.168.206.245:7002">
     <serverData>
       <paths name="dagf">
         <serverdata>
           <mappings>
             <mapping deploy="/home/zhwzhong/PycharmProject/DAGF" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhwzhong@192.168.206.245:7002">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/zhwzhong/PycharmProjects/DAGF" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>

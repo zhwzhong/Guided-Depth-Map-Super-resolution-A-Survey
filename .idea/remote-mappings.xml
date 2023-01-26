@@ -17,6 +17,13 @@
             </list>
           </settings>
         </remote-mappings>
+        <remote-mappings server-id="python@sftp://zhwzhong@192.168.206.245:7002/home/zhwzhong/miniconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/data/zhwzhong/PycharmProjects/DAGF" />
+            </list>
+          </settings>
+        </remote-mappings>
       </list>
     </list>
   </component>

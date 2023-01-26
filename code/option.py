@@ -28,7 +28,7 @@ parser.add_argument('--val_ratio', type=float, default=0.1)
 parser.add_argument('--train_ratio', type=float, default=1) # different training sets
 parser.add_argument('--data_range', type=float, default=1)
 parser.add_argument('--data_augment', type=bool, default=True)
-parser.add_argument('--dataset_name', type=str, default='RD') # Flash NYU CAVE Flash NIR MPI
+parser.add_argument('--dataset_name', type=str, default='NYU') # Flash NYU CAVE Flash NIR MPI
 parser.add_argument('--down_type', type=str, default='nearest') # nearest bic
 parser.add_argument('--down_direction', type=str, default='last')  # center  last
 parser.add_argument('--test_set', type=str, default='test+Lu+Middlebury')
@@ -60,6 +60,8 @@ parser.add_argument('--num_features', type=int, default=32)
 
 parser.add_argument('--in_channels', type=int, default=1)
 parser.add_argument('--guide_channels', type=int, default=3)
+
+parser.add_argument('--pyramid_dir', type=str, default='Up')
 
 parser.add_argument('--act', type=str, default='PReLU')
 parser.add_argument('--norm', type=str, default='None')

@@ -17,7 +17,7 @@ import numpy as np
 from torch.utils import data
 
 random.seed(60)
-root_path = '/data/zhwzhong/Data/'
+root_path = '/home/zhwzhong/Data/'
 
 if not os.path.exists(root_path):
     root_path = '/userhome/MyData/'

@@ -3,11 +3,10 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c3371300-c883-4401-9abc-9ca89ca36c9d" name="dagf" url="http://192.168.113.53">
-        <fileTransfer host="192.168.113.53" port="3090" accessType="SFTP">
+        <fileTransfer accessType="SFTP" host="192.168.206.245" port="7002" sshConfigId="ba6cf74a-d116-458d-9b08-28356de5dd56" sshConfig="zhwzhong@192.168.206.245:7002 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="3090" />
         </fileTransfer>
       </webServer>
     </option>

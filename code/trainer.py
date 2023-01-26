@@ -95,7 +95,6 @@ class Trainer():
                     p_bar.set_description('===> Epoch: {}'.format(str(self.epoch_num)).zfill(3))
                     p_bar.set_postfix(LR=show_lr, RMSE=rmse)
 
-
             self.writer.add_scalar('loss', train_loss.value()[0], self.epoch_num)
             self.writer.add_scalar('rmse/train', train_rmse.value()[0], self.epoch_num)
             for name, param in self.model.named_parameters():

@@ -1,5 +1,0 @@
-On branch main
-Your branch is up-to-date with 'origin/main'.
-nothing to commit, working directory clean
-Everything up-to-date
-Branch main set up to track remote branch main from origin.
