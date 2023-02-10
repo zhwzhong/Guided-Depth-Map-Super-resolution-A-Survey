@@ -60,5 +60,32 @@
    coming soon...
    
    ### 2018 Venues
-   coming soon...
+###2018 Venues
+
+| Title                                                        | Venue  | Type |                         Code                         |
+| :----------------------------------------------------------- | :----: | :--: | :--------------------------------------------------: |
+| Joint Bilateral Filter                                       |  TIP   |  F   | [GitHub](https://github.com/facebookresearch/LaMCTS) |
+| Hierarchical Features Driven Residual Learning for Depth Map Super-Resolution |  TIP   |  L   |                                                      |
+| Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis | TCSVT  |  L   |                                                      |
+| Depth Super-Resolution From RGB-D Pairs With Transform and Spatial Domain Regularization |  TIP   |  P   |                                                      |
+| Reconstruction-based Pairwise Depth Dataset for Depth Image Enhancement Using CNN |  ECCV  |      |                                                      |
+| Mutually Guided Image Filtering                              | TPAMI  |      |                                                      |
+| Depth Restoration From RGB-D Data via Joint Adaptive Regularization and Thresholding on Manifolds |  TIP   |      |                                                      |
+| Depth Super-Resolution From RGB-D Pairs With Transform and Spatial Domain Regularization |  TIP   |      |                                                      |
+| Global Auto-Regressive Depth Recovery via Iterative Non-Local Filtering |   TB   |      |                                                      |
+| Fast End-to-End Trainable Guided Filter                      |  CVPR  |      |                                                      |
+| Depth Super-Resolution with Deep Edge-Inference Network and Edge-Guided Depth Filling | ICASSP |      |                                                      |
+| Color-Guided Depth Map Super-Resolution via Joint Graph Laplacian and Gradient Consistency Regularization |  MMSP  |      |                                                      |
+| Single Depth Image Super-Resolution Using Convolutional Neural Networks | ICASSP |      |                                                      |
+| Fast Depth Map Super-Resolution Using Deep Neural Network    |  ISMA  |      |                                                      |
+| Co-occurrent Structural Edge Detection for Color-Guided Depth Map Super-Resolution |  ICMM  |      |                                                      |
+| Depth image super-resolution algorithm based on structural features and non-local means |   OL   |      |                                                      |
+| Single-Shot Variational Depth Super-Resolution From Shading  |  CVPR  |      |                                                      |
+| Joint-Feature Guided Depth Map Super-Resolution With Face Priors |  TYCB  |      |                                                      |
+| Explicit Edge Inconsistency Evaluation Model for Color-guided Depth Map Enhancement | TCSVT  |      |                                                      |
+| Minimum spanning forest with embedded edge inconsistency measurement model for guided depth map enhancement |  TIP   |      |                                                      |
+| Depth image super-resolution reconstruction based on a modified joint trilateral filter |  ISMA  |      |                                                      |
+| Precise depth map upsampling and enhancement based on edge-preserving fusion filters | IETCV  |      |                                                      |
+| Robust depth enhancement based on texture and depth consistency | IETCV  |      |                                                      |
+|                                                              |        |      |                                                      |
    
