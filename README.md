@@ -48,13 +48,90 @@
    coming soon...
    
    ### 2022 Venues
-   coming soon...
+  TitleVenueTypeCodePDR-Net: Progressive depth reconstruction network for color guided depth map super-resolutionNCL--Multi-Modal Convolutional Dictionary LearningTIPL*Toward Unaligned Guided Thermal Super-Resolution*TIPL[GitHub](https://github.com/honeygupta/UGSR.git)*Joint image denoising with gradient direction and edge-preserving regularization*PRPLearning Graph Regularisation for Guided Super-ResolutionCVPRP[GitHub](https://github.com/prs-eth/graph-super-resolution)Discrete Cosine Transform Network for Guided Depth Map Super-ResolutionCVPRL
    
    ### 2021 Venues
-   coming soon...
+   | Title                                                        | Venue  | Type |                             Code                             |
+| :----------------------------------------------------------- | :----: | :--: | :----------------------------------------------------------: |
+| *Deep Denoising of Flash and No-Flash Pairs for Photography in Low-Light Environments* |  CVPR  |  L   |         [GitHub](https://github.com/likesum/deepFnF)         |
+| Deformable Kernel Network for Joint Image Filtering          |  IJCV  | L&F  |        [Github](https://github.com/cvlab-yonsei/dkn)         |
+| Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline |  CVPR  |  L   |    [Github](https://github.com/lingzhi96/RGB-D-D-Dataset)    |
+| Joint Implicit Image Function for Guided Depth Super-Resolution | ACMMM  |  L   |          [Github](https://github.com/ashawkey/jiif)          |
+| BridgeNet: A Joint Learning Network of Depth Map Super-Resolution and Monocular Depth Estimation | ACMMM  |  L   |                              --                              |
+| *Deformable Enhancement and Adaptive Fusion for Depth Map Super-Resolution* |  SPL   |  L   |                              --                              |
+| *Static/dynamic filter with nonlocal regularizer*            |  JEI   |  F   |      [Github](https://github.com/seasonle/NonlocalSD-)       |
+| RGB GUIDED DEPTH MAP SUPER-RESOLUTION WITH COUPLED U-NET     |  ICME  |  L   |                              --                              |
+| High-resolution Depth Maps Imaging via Attention-based Hierarchical Multi-modal Fusion |  TIP   |  L   |          [Github](https://github.com/zhwzhong/DAGF)          |
+| Learning Spatially Variant Linear Representation Models for Joint Filtering | TPAMI  |  L   |         [Github](https://github.com/sunny2109/SVLRM)         |
+| Multimodal Deep Unfolding for Guided Image Super-Resolution  |  TIP   |  L   |                              --                              |
+| CU-Net+: Deep Fully Interpretable Network for Multi-Modal Image Restoration |  ICIP  |  L   |                              --                              |
+| Unsharp Mask Guided Filtering                                |  TIP   |  F   | [Github](https://github.com/shizenglin/Unsharp-Mask-Guided-Filtering) |
+|                                                              |        |      |                                                              |
+| Attention-Based Multistage Fusion Network for Remote Sensing Image Pansharpening |  TGRS  |  L   |                              --                              |
+| *Deep Convolutional Sparse Coding Network For Pansharpening With Guidance Of Side Information* |  ICME  |  L   |                              --                              |
+| Deep edge map guided depth super resolution                  | SP:IC  |  L   |                                                              |
+| Depth Super-Resolution by Texture-Depth Transformer          |  ICME  |      |                                                              |
+| Frequency-Dependent Depth Map Enhancement via Iterative Depth-Guided Affine Transformation and Intensity-Guided Refinement |  TMM   |      |                                                              |
+| Depth Map Super-resolution Based on Dual Normal-depth Regularization and Graph Laplacian Prior | TCSVT  |      |                                                              |
+| *Dual Regularization Based Depth Map Super-Resolution with Graph Laplacian Prior* |  ICME  |      |                                                              |
+| MIG-net: Multi-scale Network Alternatively Guided by Intensity and Gradient Features for Depth Map Super-resolution |  TMM   |      |                                                              |
+| Depth Map Super-Resolution By Multi-Direction Dictionary And Joint Regularization |  ICME  |      |                                                              |
+| *Unpaired Depth Super-Resolution in the Wild*                | arXiv  |      |                                                              |
+| WAFP-Net: Weighted Attention Fusion based Progressive Residual Learning for Depth Map Super-resolution |  TMM   |      |                                                              |
+| Learning Scene Structure Guidance via Cross-Task Knowledge Transfer for Single Depth Super-Resolution |  CVPR  |      |    [Github](https://github.com/Sunbaoli/dsr-distillation)    |
+| *Progressive Multi-scale Reconstruction for Guided Depth Map Super-Resolution via Deep Residual Gate Fusion Network* |  CGI   |      |                                                              |
+| A Generalized Framework for Edge-preserving and Structure-preserving Image Smoothing | TPAMI  |      | [Github](https://github.com/wliusjtu/Generalized-Smoothing-Framework) |
+| Depth Image Super-resolution via Two-Branch Network          | ICCSSP |      |                                                              |
+| Depth Map Reconstruction and Enhancement With Local and Patch Manifold Regularized Deep Depth Priors | Access |      |                                                              |
+| Seeing in Extra Darkness Using a Deep-Red Flash              |  CVPR  |      |                                                              |
+| Single Pair Cross-Modality Super Resolution                  |  CVPR  |      |                                                              |
+| Unpaired Depth Super-Resolution in the Wild                  | arXiv  |      |                                                              |
+| Depth map super-resolution based on edge-guided joint trilateral upsampling |  TVC   |      |                                                              |
+| Depth Map Super-Resolution Using Guided Deformable Convolution | Access |      |                                                              |
+| Fast, High-Quality Hierarchical Depth-Map Super-Resolution   | ACMMM  |      |                                                              |
+| Decoupled Dynamic Filter Networks                            |  CVPR  |      |                                                              |
+| Beyond Image to Depth: Improving Depth Prediction using Echoes |  CVPR  |      |                                                              |
+| Image Enhancement Based on the Fusion of Visible and Near-Infrared Images |  IASC  |      |                                                              |
+| NeuralFusion: Online Depth Fusion in Latent Space            |  CVPR  |      |                                                              |
    
    ### 2020 Venues
-   coming soon...
+   | Title                                                        | Venue  | Type |                          Code                           |
+| :----------------------------------------------------------- | :----: | :--: | :-----------------------------------------------------: |
+| Deep Convolutional Neural Network for Multi-Modal Image Restoration and Fusion | TPAMI  | L&P  | [GitHub](https://github.com/cindydeng1991/TPAMI-CU-Net) |
+| Multimodal Deep Unfolding for Guided Image Super-Resolution  |  TIP   |  L   |                                                         |
+| Interpretable Deep Learning for Multimodal Super-Resolution of Medical Images | MICCAI |      |                                                         |
+| Probabilistic Pixel-Adaptive Refinement Networks             |  CVPR  |      |                                                         |
+| Multi-Direction Dictionary Learning Based Depth Map Super-Resolution With Autoregressive Modeling |  TIP   |  L   |                                                         |
+| *Single depth map super-resolution via joint non-local and local modeling* |  MMSP  |  P   |                                                         |
+| Self-supervised Depth Denoising Using Lower- and Higher-quality RGB-D sensors |  3DV   |  L   |                                                         |
+| Channel Attention Based Iterative Residual Learning for Depth Map Super-Resolution |  CVPR  |  L   |                                                         |
+| Guided Deep Decoder: Unsupervised Image Pair Fusion          |  ECCV  |  L   |                                                         |
+| PMBANet: Progressive Multi-Branch Aggregation Network for Scene Depth Super-Resolution |  TIP   |  L   |                                                         |
+| Depth Super-Resolution via Deep Controllable Slicing Network | ACMMM  |  L   |                                                         |
+| Learning Factorized Weight Matrix for Joint Filtering        |  ICML  |      |                                                         |
+| Deep Convolutional Grid Warping Network for Joint Depth Map Upsampling | Access |      |                                                         |
+| Guided Depth Map Super-Resolution Using Recumbent Y Network  | Access |      |                                                         |
+| DAEANet: Dual auto-encoder attention network for depth map super-resolution |   NN   |      |                                                         |
+| Depth upsampling based on deep edge-aware learning           |   PR   |      |                                                         |
+| Coupled Real-Synthetic Domain Adaptation for Real-World Deep Depth Enhancemen |  TIP   |      |                                                         |
+| Depth image super-resolution using correlation-controlled color guidance and multi-scale symmetric network |   PR   |      |                                                         |
+| Edge-Guided Depth Image Super-Resolution Based on KSVD       | Access |      |                                                         |
+| Depth Map Enhancement by Revisiting Multi-Scale Intensity Guidance Within Coarse-to-Fine Stages | TCSVT  |      |                                                         |
+| FMPN: Fusing Multiple Progressive CNNs for Depth Map Super-Resolution | Access |      |                                                         |
+| Multi-Scale Frequency Reconstruction for Guided Depth Map Super-Resolution via Deep Residual Network | TCSVT  |      |                                                         |
+| Learned Dynamic Guidance for Depth Image Reconstruction      | TPAMI  |      |                                                         |
+| Color-Guided Depth Image Recovery With Adaptive Data Fidelity and Transferred Graph Laplacian Regularization | TCSVT  |      |                                                         |
+| Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging |  CVPR  |      |                                                         |
+| Depth upsampling based on deep edge-aware learning           |   PR   |      |                                                         |
+| Weighted Guided Image Filtering With Steering Kerne          |  TIP   |      |                                                         |
+| Deep Atrous Guided Filter for Image Restoration in Under Display Cameras | ECCVW  |  F   |                                                         |
+| NEAR-INFRARED IMAGE GUIDED REFLECTION REMOVAL                |  ICME  |      |                                                         |
+| Weakly Aligned Joint Cross-Modality Super Resolution         |  RSVT  |      |                                                         |
+| Depth image super-resolution based on joint sparse coding    |  PRL   |      |                                                         |
+| Adaptive Multi-Modality Residual Network for Compression Distorted Multi-View Depth Video Enhancement | Access |      |                                                         |
+| RoutedFusion: Learning Real-time Depth Map Fusion            |  CVPR  |      |                                                         |
+| Depth Image Denoising Using Nuclear Norm and Learning Graph Model | ACMMM  |      |                                                         |
+| Coupled Real-Synthetic Domain Adaptation for Real-World Deep Depth Enhancement.pdf |  TIP   |      |                                                         |
    
    ### 2019 Venues
   | Title                                                        | Venue  | Type |                             Code                             |
