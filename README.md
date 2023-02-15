@@ -45,7 +45,17 @@
 
    
    ### 2023 Venues
-   coming soon...
+###2022 Venues
+
+| Title                                                        | Venue | Type |                            Code                             |
+| :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
+| PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution |  NC   |  L   |                             --                              |
+| Multi-Modal Convolutional Dictionary Learning                |  TIP  |  L   |                                                             |
+| *Toward Unaligned Guided Thermal Super-Resolution*           |  TIP  |  L   |      [GitHub](https://github.com/honeygupta/UGSR.git)       |
+| *Joint image denoising with gradient direction and edge-preserving regularization* |  PR   |  P   |                                                             |
+| Learning Graph Regularisation for Guided Super-Resolution    | CVPR  |  P   | [GitHub](https://github.com/prs-eth/graph-super-resolution) |
+| Discrete Cosine Transform Network for Guided Depth Map Super-Resolution | CVPR  |  L   |  [Github](https://github.com/Zhaozixiang1228/GDSR-DCTNet)   |
+|                                                              |       |      |                                                             |
    
    ### 2022 Venues
 
