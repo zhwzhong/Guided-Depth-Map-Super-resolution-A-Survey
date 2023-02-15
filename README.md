@@ -57,7 +57,43 @@
    coming soon...
    
    ### 2019 Venues
-   coming soon...
+  | Title                                                        | Venue  | Type |                             Code                             |
+| :----------------------------------------------------------- | :----: | :--: | :----------------------------------------------------------: |
+| Perceptual Deep Depth Super-Resolution                       |  ICCV  |  L   | [GitHub](http://adase.group/3ddl/projects/perceptual-depth-sr/) |
+| Spatially Variant Linear Representation Models for Joint Filtering |  ICCV  |  L   |                              --                              |
+| Deep Coupled ISTA Network for Multi-Modal Image Super-Resolution |  TIP   |  L   |                                                              |
+| Pixel-Adaptive Convolutional Neural Networks                 |  CVPR  | L&F  |                                                              |
+| Joint Image Filtering with Deep Convolutional Networks       | TPAMI  |  L   |                                                              |
+| Guided Super-Resolution As Pixel-to-Pixel Transformation     |  ICCV  |  L   |                                                              |
+| Self-Supervised Deep Depth Denoising                         |  ICCV  |  L   |                                                              |
+| Deep Color Guided Coarse-to-Fine Convolutional Network Cascade for Depth Image Super-Resolution |  TIP   | L&F  |                                                              |
+| *Pyramid-Structured Depth MAP Super-Resolution Based on Deep Dense-Residual Network* |  SPL   |      |                                                              |
+| Multi-Source Deep Residual Fusion Network for Depth Image Super-resolution |  RSVT  |      |                                                              |
+| Dense Deep Joint Image Filter for Upsampling and Denoising   | ITAIC  |      |                                                              |
+| A Novel Segmentation Based Depth Map Up-Sampling             |  TMM   |      |                                                              |
+| Multi-Modal Deep Guided Filtering for Comprehensible Medical Image Processing |  TMI   |      |                                                              |
+| Simultaneous color-depth super-resolution with conditional generative adversarial networks |   PR   |      |                                                              |
+| Local activity-driven structural-preserving filtering f or noise removal and image smoothing |   SP   |      |                                                              |
+| Iterative range-domain weighted filter for structural preserving image smoothing and de-noising |  MTA   |      |                                                              |
+| Multi-Source Deep Residual Fusion Network for Depth Image Super-resolution |  RSVT  |      |                                                              |
+| Residual dense network for intensity-guided depth map enhancement |   IF   |      |                                                              |
+| RADAR: Robust Algorithm for Depth Image Super Resolution Based on FRI Theory and Multimodal Dictionary Learning | TCSVT  |      |                                                              |
+| Multiscale Directional Fusion for Depth Map Super Resolution with Denoising | ICASSP |      |                                                              |
+| Multi-Direction Dictionary Learning Based Depth Map Super-Resolution with Autoregressive Modeling |  TMM   |      |                                                              |
+| Photometric Depth Super-Resolution                           | TPAMI  |      |                                                              |
+| Alternately Guided Depth Super-resolution Using Weighted Least Squares and Zero-order Reverse Filtering | ICASSP |      |                                                              |
+| Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations |  TIP   |      |                                                              |
+| Color-Guided Restoration and Local Adjustment of Multi-resolution Depth Map | SICCS  |      |                                                              |
+| Depth Super-Resolution on RGB-D Video Sequences With Large Displacement 3D Motion |  TIP   |      |                                                              |
+| Depth Maps Restoration for Human Using RealSense             | Access |      |                                                              |
+| A Lightweight Neural Network Based Human Depth Recovery Method |  ICME  |      |                                                              |
+| Multiscale Directional Fusion for Depth Map Super Resolution with Denoising | ICASSP |      |                                                              |
+| Simultaneous color-depth super-resolution with conditional generative adversarial networks |   PR   |      |                                                              |
+| Multi-frame Super-resolution for Time-of-flight Imaging      |   PR   |      |                                                              |
+| Cross-View Multi-Lateral Filter for Compressed Multi-View Depth Video |  TIP   |      |                                                              |
+| Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing |   SP   |      |                                                              |
+| Self-Supervised Deep Depth Denoising                         |  ICCV  |      |                                                              |
+| Learned Dynamic Guidance for Depth Image Reconstruction      | TPAMI  |      |                                                              |
    
    ### 2018 Venues
 
