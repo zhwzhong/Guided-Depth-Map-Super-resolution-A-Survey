@@ -1,25 +1,5 @@
 ### :book: Guided Depth Map Super-resolution: A Survey
-> @article{10.1145/3584860,
-> 
-author = {Zhong, Zhiwei and Liu, Xianming and Jiang, Junjun and Zhao, Debin and Ji, Xiangyang},
-
-title = {Guided Depth Map Super-Resolution: A Survey},
-
-year = {2023},
-
-publisher = {Association for Computing Machinery},
-
-address = {New York, NY, USA},
-
-issn = {0360-0300},
-
-url = {https://doi.org/10.1145/3584860},
-
-doi = {10.1145/3584860},
-
-journal = {ACM Comput. Surv.},
-month = {feb},
-}
+> Accepted by ACM CSUR.
 #### 
 <p align="center">
   <img src="https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey/blob/main/f1.jpg">
