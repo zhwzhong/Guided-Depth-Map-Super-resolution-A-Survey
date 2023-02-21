@@ -48,7 +48,7 @@
 
 | Title                                                        | Venue | Type |                            Code                             |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
-| PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution |  NC   |  L   |                             --                          
+| Joint depth map super-resolution method via deep hybrid-cross guidance filter |  PR   |  P   |                 [Github](https://www.sciencedirect.com/science/article/abs/pii/S0031320322007397)                          
    
    ### 2022 Venues
 
