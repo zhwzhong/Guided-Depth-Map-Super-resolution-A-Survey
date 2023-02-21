@@ -49,7 +49,7 @@
 | Title                                                        | Venue | Type |                            Code                             |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
 | Joint depth map super-resolution method via deep hybrid-cross guidance filter |  PR   |  P   |                --                          |
-|Recurrent Structure Attention Guidance for Depth Super-Resolution | -- | L| |
+|Recurrent Structure Attention Guidance for Depth Super-Resolution | -- | L| |--
     
    ### 2022 Venues
 
