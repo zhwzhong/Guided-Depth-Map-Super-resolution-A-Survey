@@ -2,13 +2,26 @@
 """
 @Author  :   zhwzhong
 @License :   (C) Copyright 2013-2018, hit
-@Contact :   zhwzhong.hit@gmail.com
+@Contact :   zhwzhong@hit.edu.cn
 @Software:   PyCharm
 @File    :   dmsg.py
-@Time    :   2021/3/22 21:05
+@Time    :   2022/7/27 16:26
 @Desc    :
 """
+import numpy as np
 from models.common import *
+from torchvision.transforms.functional import rgb_to_grayscale
+
+class DeConvReLU(nn.Module):
+    def __init__(self,  in_channels, out_channels, kernel=3, stride=2, padding=1):
+        super(DeConvReLU, self).__init__()
+        self.layers = nn.Sequential(
+            nn.ConvTranspose2d(in_channels, out_channels, kernel, stride, padding=padding, output_padding=stride-1),
+            nn.PReLU()
+        )
+
+    def forward(self, inputs):
+        return self.layers(inputs)
 
 class DMSG(nn.Module):
     def __init__(self, args):
@@ -53,8 +66,9 @@ class DMSG(nn.Module):
 
         self.branchMain.append(ConvBNReLU2D(32, 1, 5, stride=1, padding=2, act='PReLU'))
 
-    def forward(self, lr, rgb, lr_up):
-        rgb_img = torch.mean(rgb, dim=1, keepdim=True)
+    def forward(self, samples):
+        lr, rgb_img, lr_up = samples['img_lr'], samples['img_rgb'], samples['lr_up']
+        rgb_img = rgb_to_grayscale(rgb_img, 1)
         h_Yh = rgb_img - self.gaussian(rgb_img)
         h_Yh = (h_Yh - torch_min(h_Yh)) / (torch_max(h_Yh) - torch_min(h_Yh))
 
@@ -72,7 +86,8 @@ class DMSG(nn.Module):
             outputs_Main.append(layer(outputs_Main[-1]))
             if i in k:
                 y_ind = 2 * (m - i // 3)
+
                 outputs_Main.append(torch.cat((outputs_Y[y_ind], outputs_Main[-1]), dim=1))
-        return [outputs_Main[-1] + self.gaussian(lr_up)]
+        return {'img_out': outputs_Main[-1] + self.gaussian(lr_up)}
 
 def make_model(args): return DMSG(args)

@@ -2,6 +2,16 @@
 """
 @Author  :   zhwzhong
 @License :   (C) Copyright 2013-2018, hit
+@Contact :   zhwzhong@hit.edu.cn
+@Software:   PyCharm
+@File    :   dsrn.py
+@Time    :   2022/8/10 19:15
+@Desc    :
+"""
+# -*- coding: utf-8 -*-
+"""
+@Author  :   zhwzhong
+@License :   (C) Copyright 2013-2018, hit
 @Contact :   zhwzhong.hit@gmail.com
 @Software:   PyCharm
 @File    :   pac.py
@@ -10,7 +20,20 @@
 """
 import torch
 from torch import nn
+from torch.nn.functional import pad
 from torch.nn.functional import max_pool2d
+
+def tensor_pad(img, scale=32):
+    h, w = img.size()[2:]
+
+    pad_h = scale - h % scale
+    pad_w = scale - w % scale
+
+    padding = [pad_w, 0, pad_h, 0]
+    img = pad(img, padding, "constant", 0)
+
+    return img, pad_h, pad_w
+
 
 def xavier_init(module, gain=1, bias=0, distribution='normal'):
     assert distribution in ['uniform', 'normal']
@@ -76,9 +99,11 @@ class DSRN(nn.Module):
         Note that there is a little bit different between the original Tensorflow code provided by the author.
         We add BN to DSRN to avoid gradient vanishing problem.
         """
-        self.args = args
 
-        self.rgb_1 = ConvReLU(self.args.guide_channels, 64, 3, 1, 1)
+        in_channels = 1
+        guide_channels = 3
+        self.args = args
+        self.rgb_1 = ConvReLU(guide_channels, 64, 3, 1, 1)
         self.rgb_2 = ConvReLU(64, 128, 3, 1, 1)
         self.rgb_3 = ConvReLU(128, 256, 3, 1, 1)
         self.rgb_4 = ConvReLU(256, 512, 3, 1, 1)
@@ -103,10 +128,10 @@ class DSRN(nn.Module):
             ConvReLU(512, 512, 3, 1, 1)
         )
 
-        self.input_1 = ConvReLU(self.args.in_channels, 64, 3, 1, 1)
-        self.input_2 = ConvReLU(self.args.in_channels, 128, 3, 1, 1)
-        self.input_3 = ConvReLU(self.args.in_channels, 256, 3, 1, 1)
-        self.input_4 = ConvReLU(self.args.in_channels, 512, 3, 1, 1)
+        self.input_1 = ConvReLU(in_channels, 64, 3, 1, 1)
+        self.input_2 = ConvReLU(in_channels, 128, 3, 1, 1)
+        self.input_3 = ConvReLU(in_channels, 256, 3, 1, 1)
+        self.input_4 = ConvReLU(in_channels, 512, 3, 1, 1)
 
         self.decoder_1 = nn.Sequential(
             ConvReLU(1024, 1024, 3, 1, 1),
@@ -135,11 +160,17 @@ class DSRN(nn.Module):
         self.tail = nn.Sequential(
             ConvReLU(64 * 3, 64, 3, 1, 1),
             ConvReLU(64, 64, 3, 1, 1),
-            ConvReLU(64, self.args.in_channels, 3, 1, 1),
+            ConvReLU(64, in_channels, 3, 1, 1),
         )
 
 
-    def forward(self,  lr, rgb, lr_up=None):
+    def forward(self,  samples):
+        rgb = samples['img_rgb']
+        lr_up = samples['lr_up']
+
+        lr_up, _, _ = tensor_pad(lr_up, 4 * self.args.scale)
+        rgb, h, w = tensor_pad(rgb, 4 * self.args.scale)
+
         rgb_feature1 = self.rgb_1(rgb)
         rgb_feature2 = self.rgb_2(max_pool2d(rgb_feature1, kernel_size=2))
         rgb_feature3 = self.rgb_3(max_pool2d(rgb_feature2, kernel_size=2))
@@ -184,6 +215,6 @@ class DSRN(nn.Module):
 
         dec_5 = self.tail(torch.cat((dec_4, rgb_feature1, enc_1), 1)) + lr_up
 
-        return [dec_5]
+        return {'img_out': dec_5[:, :, h:, w: ]}
 
 def make_model(args): return DSRN(args)
