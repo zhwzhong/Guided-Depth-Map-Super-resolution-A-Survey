@@ -43,14 +43,14 @@
 
    
 
-   
+
    ### 2023 Venues
 
 | Title                                                        | Venue | Type |                            Code                             |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
 | Joint depth map super-resolution method via deep hybrid-cross guidance filter |  PR   |  P   |                --                          |
-|Recurrent Structure Attention Guidance for Depth Super-Resolution | -- | L| |--
-    
+|Recurrent Structure Attention Guidance for Depth Super-Resolution | AAAI | L| |
+
    ### 2022 Venues
 
 | Title                                                        | Venue | Type |                            Code                             |
@@ -61,7 +61,7 @@
 | Joint image denoising with gradient direction and edge-preserving regularization |  PR   |  P   |                                                             |
 | Learning Graph Regularisation for Guided Super-Resolution    | CVPR  |  P   | [GitHub](https://github.com/prs-eth/graph-super-resolution) |
 | Discrete Cosine Transform Network for Guided Depth Map Super-Resolution | CVPR  |  L   |  [Github](https://github.com/Zhaozixiang1228/GDSR-DCTNet)   |
-   
+
    ### 2021 Venues
    | Title                                                        | Venue  | Type |                             Code                             |
 | :----------------------------------------------------------- | :----: | :--: | :----------------------------------------------------------: |
@@ -105,7 +105,7 @@
 | Beyond Image to Depth: Improving Depth Prediction using Echoes |  CVPR  |      |                                                              |
 | Image Enhancement Based on the Fusion of Visible and Near-Infrared Images |  IASC  |      |                                                              |
 | NeuralFusion: Online Depth Fusion in Latent Space            |  CVPR  |      |                                                              |
-   
+
    ### 2020 Venues
    | Title                                                        | Venue  | Type |                          Code                           |
 | :----------------------------------------------------------- | :----: | :--: | :-----------------------------------------------------: |
@@ -144,7 +144,7 @@
 | RoutedFusion: Learning Real-time Depth Map Fusion            |  CVPR  |      |                                                         |
 | Depth Image Denoising Using Nuclear Norm and Learning Graph Model | ACMMM  |      |                                                         |
 | Coupled Real-Synthetic Domain Adaptation for Real-World Deep Depth Enhancement.pdf |  TIP   |      |                                                         |
-   
+
    ### 2019 Venues
   | Title                                                        | Venue  | Type |                             Code                             |
 | :----------------------------------------------------------- | :----: | :--: | :----------------------------------------------------------: |
@@ -183,7 +183,7 @@
 | Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing |   SP   |      |                                                              |
 | Self-Supervised Deep Depth Denoising                         |  ICCV  |      |                                                              |
 | Learned Dynamic Guidance for Depth Image Reconstruction      | TPAMI  |      |                                                              |
-   
+
    ### 2018 Venues
 
 | Title                                                        | Venue  | Type |                         Code                         |
@@ -212,4 +212,4 @@
 | Precise depth map upsampling and enhancement based on edge-preserving fusion filters | IETCV  |      |                                                      |
 | Robust depth enhancement based on texture and depth consistency | IETCV  |      |                                                      |
 |                                                              |        |      |                                                      |
-   
+
