@@ -56,21 +56,21 @@
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
 | PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution |  NC   |  L   |                             --                              |
 | Multi-Modal Convolutional Dictionary Learning                |  TIP  |  L   |                                                             |
-| *Toward Unaligned Guided Thermal Super-Resolution*           |  TIP  |  L   |      [GitHub](https://github.com/honeygupta/UGSR.git)       |
-| *Joint image denoising with gradient direction and edge-preserving regularization* |  PR   |  P   |                                                             |
+| Toward Unaligned Guided Thermal Super-Resolution           |  TIP  |  L   |      [GitHub](https://github.com/honeygupta/UGSR.git)       |
+| Joint image denoising with gradient direction and edge-preserving regularization |  PR   |  P   |                                                             |
 | Learning Graph Regularisation for Guided Super-Resolution    | CVPR  |  P   | [GitHub](https://github.com/prs-eth/graph-super-resolution) |
 | Discrete Cosine Transform Network for Guided Depth Map Super-Resolution | CVPR  |  L   |  [Github](https://github.com/Zhaozixiang1228/GDSR-DCTNet)   |
    
    ### 2021 Venues
    | Title                                                        | Venue  | Type |                             Code                             |
 | :----------------------------------------------------------- | :----: | :--: | :----------------------------------------------------------: |
-| *Deep Denoising of Flash and No-Flash Pairs for Photography in Low-Light Environments* |  CVPR  |  L   |         [GitHub](https://github.com/likesum/deepFnF)         |
+| Deep Denoising of Flash and No-Flash Pairs for Photography in Low-Light Environments |  CVPR  |  L   |         [GitHub](https://github.com/likesum/deepFnF)         |
 | Deformable Kernel Network for Joint Image Filtering          |  IJCV  | L&F  |        [Github](https://github.com/cvlab-yonsei/dkn)         |
 | Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline |  CVPR  |  L   |    [Github](https://github.com/lingzhi96/RGB-D-D-Dataset)    |
 | Joint Implicit Image Function for Guided Depth Super-Resolution | ACMMM  |  L   |          [Github](https://github.com/ashawkey/jiif)          |
 | BridgeNet: A Joint Learning Network of Depth Map Super-Resolution and Monocular Depth Estimation | ACMMM  |  L   |                              --                              |
-| *Deformable Enhancement and Adaptive Fusion for Depth Map Super-Resolution* |  SPL   |  L   |                              --                              |
-| *Static/dynamic filter with nonlocal regularizer*            |  JEI   |  F   |      [Github](https://github.com/seasonle/NonlocalSD-)       |
+| Deformable Enhancement and Adaptive Fusion for Depth Map Super-Resolution |  SPL   |  L   |                              --                              |
+| Static/dynamic filter with nonlocal regularizer            |  JEI   |  F   |      [Github](https://github.com/seasonle/NonlocalSD-)       |
 | RGB GUIDED DEPTH MAP SUPER-RESOLUTION WITH COUPLED U-NET     |  ICME  |  L   |                              --                              |
 | High-resolution Depth Maps Imaging via Attention-based Hierarchical Multi-modal Fusion |  TIP   |  L   |          [Github](https://github.com/zhwzhong/DAGF)          |
 | Learning Spatially Variant Linear Representation Models for Joint Filtering | TPAMI  |  L   |         [Github](https://github.com/sunny2109/SVLRM)         |
@@ -87,10 +87,10 @@
 | *Dual Regularization Based Depth Map Super-Resolution with Graph Laplacian Prior* |  ICME  |      |                                                              |
 | MIG-net: Multi-scale Network Alternatively Guided by Intensity and Gradient Features for Depth Map Super-resolution |  TMM   |      |                                                              |
 | Depth Map Super-Resolution By Multi-Direction Dictionary And Joint Regularization |  ICME  |      |                                                              |
-| *Unpaired Depth Super-Resolution in the Wild*                | arXiv  |      |                                                              |
+| Unpaired Depth Super-Resolution in the Wild                | arXiv  |      |                                                              |
 | WAFP-Net: Weighted Attention Fusion based Progressive Residual Learning for Depth Map Super-resolution |  TMM   |      |                                                              |
 | Learning Scene Structure Guidance via Cross-Task Knowledge Transfer for Single Depth Super-Resolution |  CVPR  |      |    [Github](https://github.com/Sunbaoli/dsr-distillation)    |
-| *Progressive Multi-scale Reconstruction for Guided Depth Map Super-Resolution via Deep Residual Gate Fusion Network* |  CGI   |      |                                                              |
+| Progressive Multi-scale Reconstruction for Guided Depth Map Super-Resolution via Deep Residual Gate Fusion Network |  CGI   |      |                                                              |
 | A Generalized Framework for Edge-preserving and Structure-preserving Image Smoothing | TPAMI  |      | [Github](https://github.com/wliusjtu/Generalized-Smoothing-Framework) |
 | Depth Image Super-resolution via Two-Branch Network          | ICCSSP |      |                                                              |
 | Depth Map Reconstruction and Enhancement With Local and Patch Manifold Regularized Deep Depth Priors | Access |      |                                                              |
@@ -113,7 +113,7 @@
 | Interpretable Deep Learning for Multimodal Super-Resolution of Medical Images | MICCAI |      |                                                         |
 | Probabilistic Pixel-Adaptive Refinement Networks             |  CVPR  |      |                                                         |
 | Multi-Direction Dictionary Learning Based Depth Map Super-Resolution With Autoregressive Modeling |  TIP   |  L   |                                                         |
-| *Single depth map super-resolution via joint non-local and local modeling* |  MMSP  |  P   |                                                         |
+| Single depth map super-resolution via joint non-local and local modeling |  MMSP  |  P   |                                                         |
 | Self-supervised Depth Denoising Using Lower- and Higher-quality RGB-D sensors |  3DV   |  L   |                                                         |
 | Channel Attention Based Iterative Residual Learning for Depth Map Super-Resolution |  CVPR  |  L   |                                                         |
 | Guided Deep Decoder: Unsupervised Image Pair Fusion          |  ECCV  |  L   |                                                         |
@@ -155,7 +155,7 @@
 | Guided Super-Resolution As Pixel-to-Pixel Transformation     |  ICCV  |  L   |                                                              |
 | Self-Supervised Deep Depth Denoising                         |  ICCV  |  L   |                                                              |
 | Deep Color Guided Coarse-to-Fine Convolutional Network Cascade for Depth Image Super-Resolution |  TIP   | L&F  |                                                              |
-| *Pyramid-Structured Depth MAP Super-Resolution Based on Deep Dense-Residual Network* |  SPL   |      |                                                              |
+| Pyramid-Structured Depth MAP Super-Resolution Based on Deep Dense-Residual Network |  SPL   |      |                                                              |
 | Multi-Source Deep Residual Fusion Network for Depth Image Super-resolution |  RSVT  |      |                                                              |
 | Dense Deep Joint Image Filter for Upsampling and Denoising   | ITAIC  |      |                                                              |
 | A Novel Segmentation Based Depth Map Up-Sampling             |  TMM   |      |                                                              |
