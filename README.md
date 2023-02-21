@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey/blob/main/f1.jpg">
 </p>
-### Citication
+### Citation
 
 If you find this project useful, please cite:
 
