@@ -1,5 +1,5 @@
 ### :book: Guided Depth Map Super-resolution: A Survey
-> Accepted by ACM CSUR.
+> Accepted by [ACM CSUR](https://dl.acm.org/doi/10.1145/3584860).
 #### 
 <p align="center">
   <img src="https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey/blob/main/f1.jpg">
