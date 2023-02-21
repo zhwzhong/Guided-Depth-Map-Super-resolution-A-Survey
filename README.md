@@ -216,3 +216,8 @@
 | Robust depth enhancement based on texture and depth consistency | IETCV  |      |                                                      |
 |                                                              |        |      |                                                      |
 
+### Citication
+
+If you find this project useful, please cite:
+
+*Zhiwei Zhong, Xianming Liu, Junjun Jiang, Debin Zhao, and Xiangyang Ji. 2023. Guided Depth Map Super-resolution: A Survey. ACM Comput. Surv. Just Accepted (February 2023). https://doi.org/10.1145/3584860*
