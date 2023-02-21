@@ -22,18 +22,21 @@
 
 ### Dataset
 
-1. [NYU](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
-4. [Sintel](http://sintel.is.tue.mpg.de/)
-5. [DIDOE](https://github.com/diode-dataset/diode-devkit?utm_source=catalyzex.com)
-6. [SUN RGB](https://rgbd.cs.princeton.edu/)
-6. [RGB-D-D](https://dimlrgbd.github.io/)
-6. [DIML](https://github.com/lingzhi96/RGB-D-D-Dataset)
+1. [NYU 2. ](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)[Sintel](http://sintel.is.tue.mpg.de/) 3.[DIDOE](https://github.com/diode-dataset/diode-devkit?utm_source=catalyzex.com) 4. [SUN RGB](https://rgbd.cs.princeton.edu/) 5. [RGB-D-D](https://dimlrgbd.github.io/) 6. [DIML](https://github.com/lingzhi96/RGB-D-D-Dataset)
 
 ### Train
 
 ```
  python main.py  --scale=SCALE --dataset_name='NYU' --model_name=MODEL NAME
 ```
+
+### Test
+
+```
+ python main.py  --scale=SCALE --dataset_name='NYU' --model_name=MODEL NAME --test_only
+```
+
+
 
 ## Awesome Guided Depth Map Super-resolution [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
