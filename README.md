@@ -48,8 +48,9 @@
 
 | Title                                                        | Venue | Type |                            Code                             |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
-| Joint depth map super-resolution method via deep hybrid-cross guidance filter |  PR   |  P   |                 [Github](https://www.sciencedirect.com/science/article/abs/pii/S0031320322007397)                          
-   
+| Joint depth map super-resolution method via deep hybrid-cross guidance filter |  PR   |  P   |                --                          |
+|Recurrent Structure Attention Guidance for Depth Super-Resolution | -- | L| |
+    
    ### 2022 Venues
 
 | Title                                                        | Venue | Type |                            Code                             |
