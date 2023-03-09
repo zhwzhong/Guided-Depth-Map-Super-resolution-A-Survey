@@ -60,7 +60,7 @@ If you find this project useful, please cite:
 | Joint depth map super-resolution method via deep hybrid-cross guidance filter |  PR   |  P   |                --                          |
 |Recurrent Structure Attention Guidance for Depth Super-Resolution | AAAI | L| -- |
 |Structure Flow-Guided Network for Real Depth Super-Resolution | AAAI | L | -- |
-| |  | | |
+| Deep Attentional Guided Filtering | TNNLS | F | [Github](https://github.com/zhwzhong/DAGF) |
 | |  | | |
 | |  | | |
 
