@@ -60,19 +60,24 @@ If you find this project useful, please cite:
 | Joint depth map super-resolution method via deep hybrid-cross guidance filter |  PR   |  P   |                --                          |
 |Recurrent Structure Attention Guidance for Depth Super-Resolution | AAAI | L| -- |
 |Structure Flow-Guided Network for Real Depth Super-Resolution | AAAI | L | -- |
-| Deep Attentional Guided Filtering | TNNLS | F&L | [Github](https://github.com/zhwzhong/DAGF) |
+| Deep Attentional Guided Filtering | TNNLS | L&F | [Github](https://github.com/zhwzhong/DAGF) |
+| Fully Cross-Attention Transformer for Guided Depth Super-Resolution | Sensors | L | -- |
 
    ### 2022 Venues
 
-| Title                                                        | Venue | Type |                            Code                             |
-| :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
-| PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution |  NC   |  L   |                             --                              |
-| Multi-Modal Convolutional Dictionary Learning                |  TIP  |  L   |                             --                              |
-| Toward Unaligned Guided Thermal Super-Resolution             |  TIP  |  L   |      [GitHub](https://github.com/honeygupta/UGSR.git)       |
-| Joint image denoising with gradient direction and edge-preserving regularization |  PR   |  P   |                             --                              |
-| Learning Graph Regularisation for Guided Super-Resolution    | CVPR  |  P   | [GitHub](https://github.com/prs-eth/graph-super-resolution) |
-| Discrete Cosine Transform Network for Guided Depth Map Super-Resolution | CVPR  |  L   |  [Github](https://github.com/Zhaozixiang1228/GDSR-DCTNet)   |
-| Learning Complementary Correlations for Depth Super-Resolution With Incomplete Data in Real World. | TNNLS |  L   |                             --                              |
+| Title                                                        | Venue | Type |                             Code                             |
+| :----------------------------------------------------------- | :---: | :--: | :----------------------------------------------------------: |
+| PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution |  NC   |  L   |                              --                              |
+| Multi-Modal Convolutional Dictionary Learning                |  TIP  |  L   |                              --                              |
+| Toward Unaligned Guided Thermal Super-Resolution             |  TIP  |  L   |       [GitHub](https://github.com/honeygupta/UGSR.git)       |
+| Joint image denoising with gradient direction and edge-preserving regularization |  PR   |  P   |                              --                              |
+| Learning Graph Regularisation for Guided Super-Resolution    | CVPR  |  P   | [GitHub](https://github.com/prs-eth/graph-super-resolution)  |
+| Discrete Cosine Transform Network for Guided Depth Map Super-Resolution | CVPR  |  L   |   [Github](https://github.com/Zhaozixiang1228/GDSR-DCTNet)   |
+| Learning Complementary Correlations for Depth Super-Resolution With Incomplete Data in Real World. | TNNLS |  L   |                              --                              |
+| Memory-augmented Deep Unfolding Network for Guided Image Super-resolution | IJCV  | L&P  | [Github](https://github.com/manman1995/Awaresome-pansharpening) |
+| CODON: On orchestrating cross-domain attentions for depth super-resolution | IJCV  |  L   |         [Github](https://github.com/619862306/CODON)         |
+| Local Attention Guided Joint Depth Upsampling                |  VMV  |  L   |                              --                              |
+| Depth Map Super-Resolution via Cascaded Transformers Guidance | FRSIP |  L   |                              --                              |
 
    ### 2021 Venues
 | Title                                                        | Venue  | Type |                             Code                             |
