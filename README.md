@@ -63,6 +63,7 @@ If you find this project useful, please cite:
 | Deep Attentional Guided Filtering | TNNLS | L&F | [Github](https://github.com/zhwzhong/DAGF) |
 | Fully Cross-Attention Transformer for Guided Depth Super-Resolution | Sensors | L | -- |
 |Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution | arxiv | L&P | -- |
+|Depth Super-Resolution from Explicit and Implicit High-Frequency Features| arxiv | L | --|
 
    ### 2022 Venues
 
