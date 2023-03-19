@@ -62,6 +62,7 @@ If you find this project useful, please cite:
 |Structure Flow-Guided Network for Real Depth Super-Resolution | AAAI | L | -- |
 | Deep Attentional Guided Filtering | TNNLS | L&F | [Github](https://github.com/zhwzhong/DAGF) |
 | Fully Cross-Attention Transformer for Guided Depth Super-Resolution | Sensors | L | -- |
+|Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution | arxiv | L&P | -- |
 
    ### 2022 Venues
 
