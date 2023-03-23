@@ -64,6 +64,7 @@ If you find this project useful, please cite:
 | Fully Cross-Attention Transformer for Guided Depth Super-Resolution | Sensors | L | -- |
 |Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution | arxiv | L&P | -- |
 |Depth Super-Resolution from Explicit and Implicit High-Frequency Features| arxiv | L | --|
+|Self-Supervised Learning for RGB-Guided Depth Enhancement by Exploiting the Dependency Between RGB and Depth |TIP|L|[Github](https://github.com/wjcyt/SRDE)|
 
    ### 2022 Venues
 
