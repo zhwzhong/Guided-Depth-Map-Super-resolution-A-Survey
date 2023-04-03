@@ -86,7 +86,7 @@ If you find this project useful, please cite:
 | Title                                                        | Venue  | Type |                             Code                             |
 | :----------------------------------------------------------- | :----: | :--: | :----------------------------------------------------------: |
 | Deformable Kernel Network for Joint Image Filtering  [pdf](https://link.springer.com/article/10.1007/s11263-020-01386-z)        |  IJCV  | L&F  |        [Github](https://github.com/cvlab-yonsei/dkn)         |
-| Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline |  CVPR  |  L   |    [Github](https://github.com/lingzhi96/RGB-D-D-Dataset)    |
+| Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf) |  CVPR  |  L   |    [Github](https://github.com/lingzhi96/RGB-D-D-Dataset)    |
 | Joint Implicit Image Function for Guided Depth Super-Resolution | ACMMM  |  L   |          [Github](https://github.com/ashawkey/jiif)          |
 | BridgeNet: A Joint Learning Network of Depth Map Super-Resolution and Monocular Depth Estimation | ACMMM  |  L   |                              --                              |
 | Deformable Enhancement and Adaptive Fusion for Depth Map Super-Resolution |  SPL   |  L   |                              --                              |
