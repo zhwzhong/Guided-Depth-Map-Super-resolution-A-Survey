@@ -78,7 +78,7 @@ If you find this project useful, please cite:
 | Discrete Cosine Transform Network for Guided Depth Map Super-Resolution [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.pdf) | CVPR  |  L   |   [Github](https://github.com/Zhaozixiang1228/GDSR-DCTNet)   |
 | Learning Complementary Correlations for Depth Super-Resolution With Incomplete Data in Real World [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9930797) | TNNLS |  L   |                              --                              |
 | Memory-augmented Deep Unfolding Network for Guided Image Super-resolution [pdf](https://link.springer.com/article/10.1007/s11263-022-01699-1)| IJCV  | L&P  | [Github](https://github.com/manman1995/Awaresome-pansharpening) |
-| CODON: On orchestrating cross-domain attentions for depth super-resolution | IJCV  |  L   |         [Github](https://github.com/619862306/CODON)         |
+| CODON: On orchestrating cross-domain attentions for depth super-resolution [pdf](https://link.springer.com/article/10.1007/s11263-021-01545-w) | IJCV  |  L   |         [Github](https://github.com/619862306/CODON)         |
 | Local Attention Guided Joint Depth Upsampling                |  VMV  |  L   |                              --                              |
 | Depth Map Super-Resolution via Cascaded Transformers Guidance | FRSIP |  L   |                              --                              |
 
