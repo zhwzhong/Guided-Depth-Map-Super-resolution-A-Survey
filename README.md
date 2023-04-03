@@ -79,8 +79,8 @@ If you find this project useful, please cite:
 | Learning Complementary Correlations for Depth Super-Resolution With Incomplete Data in Real World [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9930797) | TNNLS |  L   |                              --                              |
 | Memory-augmented Deep Unfolding Network for Guided Image Super-resolution [pdf](https://link.springer.com/article/10.1007/s11263-022-01699-1)| IJCV  | L&P  | [Github](https://github.com/manman1995/Awaresome-pansharpening) |
 | CODON: On orchestrating cross-domain attentions for depth super-resolution [pdf](https://link.springer.com/article/10.1007/s11263-021-01545-w) | IJCV  |  L   |         [Github](https://github.com/619862306/CODON)         |
-| Local Attention Guided Joint Depth Upsampling                |  VMV  |  L   |                              --                              |
-| Depth Map Super-Resolution via Cascaded Transformers Guidance | FRSIP |  L   |                              --                              |
+| Local Attention Guided Joint Depth Upsampling   [pdf](https://diglib.eg.org/bitstream/handle/10.2312/vmv20221197/001-008.pdf)             |  VMV  |  L   |                              --                              |
+| Depth Map Super-Resolution via Cascaded Transformers Guidance [pdf](https://www.frontiersin.org/articles/10.3389/frsip.2022.847890/full) | FRSIP |  L   |                              --                              |
 
    ### 2021 Venues
 | Title                                                        | Venue  | Type |                             Code                             |
