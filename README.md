@@ -91,16 +91,16 @@ If you find this project useful, please cite:
 | Joint Implicit Image Function for Guided Depth Super-Resolution [pdf](https://dl.acm.org/doi/pdf/10.1145/3474085.3475584) | ACMMM  |  L   |          [Github](https://github.com/ashawkey/jiif)          |
 | BridgeNet: A Joint Learning Network of Depth Map Super-Resolution and Monocular Depth Estimation [pdf](BridgeNet: A Joint Learning Network of Depth Map Super-Resolution and Monocular Depth Estimation) | ACMMM  |  L   |                              --                              |
 | Deformable Enhancement and Adaptive Fusion for Depth Map Super-Resolution [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9635666) |  SPL   |  L   |                              --                              |
-| RGB GUIDED DEPTH MAP SUPER-RESOLUTION WITH COUPLED U-NET     |  ICME  |  L   |                              --                              |
-| High-resolution Depth Maps Imaging via Attention-based Hierarchical Multi-modal Fusion |  TIP   |  L   |          [Github](https://github.com/zhwzhong/AHMF)          |
-| Learning Spatially Variant Linear Representation Models for Joint Filtering | TPAMI  |  L   |         [Github](https://github.com/sunny2109/SVLRM)         |
-| Multimodal Deep Unfolding for Guided Image Super-Resolution  |  TIP   |  L   |                              --                              |
-| CU-Net+: Deep Fully Interpretable Network for Multi-Modal Image Restoration |  ICIP  |  L   |                              --                              |
-| Unsharp Mask Guided Filtering                                |  TIP   |  F   | [Github](https://github.com/shizenglin/Unsharp-Mask-Guided-Filtering) |
-| Deep edge map guided depth super resolution                  | SP:IC  |  L   |                              --                              |
-| Depth Super-Resolution by Texture-Depth Transformer          |  ICME  |  L   |                              --                              |
-| Frequency-Dependent Depth Map Enhancement via Iterative Depth-Guided Affine Transformation and Intensity-Guided Refinement |  TMM   |  L   | [Github](https://github.com/Yifan-Zuo/Frequency-dependent-Depth-Map-Enhancement) |
-| Depth Map Super-resolution Based on Dual Normal-depth Regularization and Graph Laplacian Prior | TCSVT  |  P   |                              --                              |
+| RGB GUIDED DEPTH MAP SUPER-RESOLUTION WITH COUPLED U-NET [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428096) |  ICME  |  L   |                              --                              |
+| High-resolution Depth Maps Imaging via Attention-based Hierarchical Multi-modal Fusion [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642435) |  TIP   |  L   |          [Github](https://github.com/zhwzhong/AHMF)          |
+| Learning Spatially Variant Linear Representation Models for Joint Filtering [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508867) | TPAMI  |  L   |         [Github](https://github.com/sunny2109/SVLRM)         |
+| Multimodal Deep Unfolding for Guided Image Super-Resolution [pdf](Multimodal Deep Unfolding for Guided Image Super-Resolution) |  TIP   |  L   |                              --                              |
+| CU-Net+: Deep Fully Interpretable Network for Multi-Modal Image Restoration [pdf](https://ieeexplore.ieee.org/document/9506455) |  ICIP  |  L   |                              --                              |
+| Unsharp Mask Guided Filtering [pdf](https://ieeexplore.ieee.org/document/9524469) |  TIP   |  F   | [Github](https://github.com/shizenglin/Unsharp-Mask-Guided-Filtering) |
+| Deep edge map guided depth super resolution  [pdf](https://www.sciencedirect.com/science/article/pii/S0923596520301867) | SP:IC  |  L   |                              --                              |
+| Depth Super-Resolution by Texture-Depth Transformer  [pdf](https://ieeexplore.ieee.org/abstract/document/9428393/) |  ICME  |  L   |                              --                              |
+| Frequency-Dependent Depth Map Enhancement via Iterative Depth-Guided Affine Transformation and Intensity-Guided Refinement [pdf](https://ieeexplore.ieee.org/document/9069434) |  TMM   |  L   | [Github](https://github.com/Yifan-Zuo/Frequency-dependent-Depth-Map-Enhancement) |
+| Depth Map Super-resolution Based on Dual Normal-depth Regularization and Graph Laplacian Prior [pdf](https://ieeexplore.ieee.org/document/9511489) | TCSVT  |  P   |                              --                              |
 | Dual Regularization Based Depth Map Super-Resolution with Graph Laplacian Prior |  ICME  |  P   |                              --                              |
 | MIG-net: Multi-scale Network Alternatively Guided by Intensity and Gradient Features for Depth Map Super-resolution |  TMM   |  L   | [Github](https://github.com/Yifan-Zuo/MIG-net-gradient_guided_depth_enhancement) |
 | Depth Map Super-Resolution By Multi-Direction Dictionary And Joint Regularization |  ICME  |  P   |                              --                              |
