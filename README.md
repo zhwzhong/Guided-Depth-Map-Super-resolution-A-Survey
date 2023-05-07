@@ -9,7 +9,13 @@
 
 If you find this project useful, please cite:
 
-*Zhiwei Zhong, Xianming Liu, Junjun Jiang, Debin Zhao, and Xiangyang Ji. 2023. Guided Depth Map Super-resolution: A Survey. ACM Comput. Surv. Just Accepted (February 2023). https://doi.org/10.1145/3584860*
+@article{zhong2023guided,
+  title={Guided Depth Map Super-resolution: A Survey},
+  author={Zhong, Zhiwei and Liu, Xianming and Jiang, Junjun and Zhao, Debin and Ji, Xiangyang},
+  journal={ACM Computing Surveys},
+  year={2023},
+  publisher={ACM New York, NY}
+}
 
 ### Installation
 
