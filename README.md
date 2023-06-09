@@ -90,8 +90,8 @@ If you find this project useful, please cite:
 | CODON: On orchestrating cross-domain attentions for depth super-resolution [pdf](https://link.springer.com/article/10.1007/s11263-021-01545-w) |  IJCV  |  L   |         [Github](https://github.com/619862306/CODON)         |
 | Local Attention Guided Joint Depth Upsampling   [pdf](https://diglib.eg.org/bitstream/handle/10.2312/vmv20221197/001-008.pdf) |  VMV   |  L   |                              --                              |
 | Depth Map Super-Resolution via Cascaded Transformers Guidance [pdf](https://www.frontiersin.org/articles/10.3389/frsip.2022.847890/full) | FRSIP  |  L   |                              --                              |
-| Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution [pdf](https://github.com/ShiWuxuan/SUFT) | ACM MM |  L   |                                                              |
-|Depth Map Super-Resolution via Joint Local Gradient and Nonlocal Structural Regularizations [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828524)| TCSVT|--|
+| Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution [pdf](https://github.com/ShiWuxuan/SUFT) | ACM MM |  L   |                               --                               |
+|Depth Map Super-Resolution via Joint Local Gradient and Nonlocal Structural Regularizations [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828524)| TCSVT|P|--|
 
    ### 2021 Venues
 | Title                                                        | Venue  | Type |                             Code                             |
