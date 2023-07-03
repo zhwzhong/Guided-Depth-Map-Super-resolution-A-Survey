@@ -73,7 +73,7 @@ If you find this project useful, please cite:
 |Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution [PDF](https://arxiv.org/pdf/2303.08942.pdf)| arxiv | L&P | -- |
 |Depth Super-Resolution from Explicit and Implicit High-Frequency Features [PDF](https://arxiv.org/pdf/2303.09307.pdf)| arxiv | L | --|
 |Self-Supervised Learning for RGB-Guided Depth Enhancement by Exploiting the Dependency Between RGB and Depth [PDF](https://ieeexplore.ieee.org/document/9975253/) |TIP|L|[Github](https://github.com/wjcyt/SRDE)|
-|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9940165 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| --|
+|RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| --|
 
    ### 2022 Venues
 
