@@ -73,6 +73,7 @@ If you find this project useful, please cite:
 |Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution [PDF](https://arxiv.org/pdf/2303.08942.pdf)| arxiv | L&P | -- |
 |Depth Super-Resolution from Explicit and Implicit High-Frequency Features [PDF](https://arxiv.org/pdf/2303.09307.pdf)| arxiv | L | --|
 |Self-Supervised Learning for RGB-Guided Depth Enhancement by Exploiting the Dependency Between RGB and Depth [PDF](https://ieeexplore.ieee.org/document/9975253/) |TIP|L|[Github](https://github.com/wjcyt/SRDE)|
+|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9940165 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| --|
 
    ### 2022 Venues
 
@@ -92,7 +93,7 @@ If you find this project useful, please cite:
 | Depth Map Super-Resolution via Cascaded Transformers Guidance [pdf](https://www.frontiersin.org/articles/10.3389/frsip.2022.847890/full) | FRSIP  |  L   |                              --                              |
 | Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution [pdf](https://github.com/ShiWuxuan/SUFT) | ACM MM |  L   |                               --                               |
 |Depth Map Super-Resolution via Joint Local Gradient and Nonlocal Structural Regularizations [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828524)| TCSVT|P|--|
-|Depth Map Recovery Based on a Unified Depth Boundary Distortion Model [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9940165)| IEEE TIP | P ||
+|Depth Map Recovery Based on a Unified Depth Boundary Distortion Model [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9940165)| TIP | P | --|
 
    ### 2021 Venues
 | Title                                                        | Venue  | Type |                             Code                             |
