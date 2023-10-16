@@ -74,7 +74,7 @@ If you find this project useful, please cite:
 |Depth Super-Resolution from Explicit and Implicit High-Frequency Features [PDF](https://arxiv.org/pdf/2303.09307.pdf)| arxiv | L | --|
 |Self-Supervised Learning for RGB-Guided Depth Enhancement by Exploiting the Dependency Between RGB and Depth [PDF](https://ieeexplore.ieee.org/document/9975253/) |TIP|L|[Github](https://github.com/wjcyt/SRDE)|
 |RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| --|
-|Learning Continuous Depth Representation via Geometric Spatial Aggregator [pdf](https://arxiv.org/pdf/2212.03499.pdf) | AAAI|L|[Github](https://github.com/nana01219/GeoDSR)|
+|Learning Continuous Depth Representation via Geometric Spatial Aggregator [pdf](https://arxiv.org/pdf/2212.03499.pdf) |L|[Github](https://github.com/nana01219/GeoDSR)|
 
    ### 2022 Venues
 
