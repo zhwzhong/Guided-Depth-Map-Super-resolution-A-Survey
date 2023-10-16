@@ -70,10 +70,11 @@ If you find this project useful, please cite:
 |Structure Flow-Guided Network for Real Depth Super-Resolution [PDF](https://arxiv.org/pdf/2301.13416.pdf) | AAAI | L | -- |
 | Deep Attentional Guided Filtering [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089494) | TNNLS | L&F | [Github](https://github.com/zhwzhong/DAGF) |
 | Fully Cross-Attention Transformer for Guided Depth Super-Resolution [PDF](https://arxiv.org/pdf/2303.09307.pdf)| Sensors | L | -- |
-|Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution [PDF](https://arxiv.org/pdf/2303.08942.pdf)| arxiv | L&P | -- |
+|Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution [PDF](https://arxiv.org/pdf/2303.08942.pdf)| ICCV | L&P | -- |
 |Depth Super-Resolution from Explicit and Implicit High-Frequency Features [PDF](https://arxiv.org/pdf/2303.09307.pdf)| arxiv | L | --|
 |Self-Supervised Learning for RGB-Guided Depth Enhancement by Exploiting the Dependency Between RGB and Depth [PDF](https://ieeexplore.ieee.org/document/9975253/) |TIP|L|[Github](https://github.com/wjcyt/SRDE)|
 |RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| --|
+|Learning Continuous Depth Representation via Geometric Spatial Aggregator|[pdf](https://arxiv.org/pdf/2212.03499.pdf) | AAAI|L|[Github](https://github.com/nana01219/GeoDSR)|
 
    ### 2022 Venues
 
