@@ -76,7 +76,7 @@ If you find this project useful, please cite:
 |RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| --|
 |Learning Continuous Depth Representation via Geometric Spatial Aggregator [pdf](https://arxiv.org/pdf/2212.03499.pdf)|AAAI |L|[Github](https://github.com/nana01219/GeoDSR)|
 |Coarse-to-Fine Depth Super-Resolution with Adaptive RGB-D Feature Attention [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10209231)|TMM| L | --|
-|A^2GSTran: Depth Map Super-resolution via Asymmetric Attention with Guidance Selection [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296875)| TCSVT| L | --|
+|A^2GSTran: Depth Map Super-resolution via Asymmetric Attention with Guidance Selection [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296875)| TCSVT| L | [Github](https://github.com/alex-cate/Depth_Map_Super-resolution_via_Asymmetric_Attention_with_Guidance_Selection)|
 
    ### 2022 Venues
 
