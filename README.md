@@ -58,7 +58,10 @@ If you find this project useful, please cite:
    | Explanation | Filtering-based | Prior-based | Learning-based |
 
    
-
+### 2024 Venuse
+| Title                                                        | Venue | Type |                            Code                             |
+| :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
+SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution [pdf](https://arxiv.org/pdf/2312.05799.pdf) | AAAI | L|[Github](https://github.com/yanzq95/SGNet)|
 
    ### 2023 Venues
 
