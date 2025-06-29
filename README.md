@@ -63,6 +63,7 @@ If you find this project useful, please cite:
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
 DuCos: Duality Constrained Depth Super-Resolution via Foundation Model [pdf](https://arxiv.org/pdf/2503.04171) | ICCV | L|--|
 DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution [pdf](https://arxiv.org/pdf/2410.11666) | CVPR | L|[Github](https://github.com/yanzq95/DORNet)|
+Dual-Level Cross-Modality Neural Architecture Search for Guided Image Super-Resolution [pdf](https://www.computer.org/csdl/journal/tp/5555/01/11029618/27qQbJ41f1K) | TPAMI | L|[Github](https://github.com/zhwzhong/DCNAS)|
    
 ### 2024 Venuse
 | Title                                                        | Venue | Type |                            Code                             |
