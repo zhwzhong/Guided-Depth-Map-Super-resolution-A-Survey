@@ -64,11 +64,14 @@ If you find this project useful, please cite:
 DuCos: Duality Constrained Depth Super-Resolution via Foundation Model [pdf](https://arxiv.org/pdf/2503.04171) | ICCV | L|--|
 DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution [pdf](https://arxiv.org/pdf/2410.11666) | CVPR | L|[Github](https://github.com/yanzq95/DORNet)|
 Dual-Level Cross-Modality Neural Architecture Search for Guided Image Super-Resolution [pdf](https://www.computer.org/csdl/journal/tp/5555/01/11029618/27qQbJ41f1K) | TPAMI | L|[Github](https://github.com/zhwzhong/DCNAS)|
+Delving into Transformer-based Network Architecture for Guided Depth Super-Resolution [pdf](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=iZ3YxM0AAAAJ&sortby=pubdate&citation_for_view=iZ3YxM0AAAAJ:ZHo1McVdvXMC) | ICASSP | L|--|
    
 ### 2024 Venuse
 | Title                                                        | Venue | Type |                            Code                             |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
 SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution [pdf](https://arxiv.org/pdf/2312.05799.pdf) | AAAI | L|[Github](https://github.com/yanzq95/SGNet)|
+Digging into Depth and Color Spaces: A Mapping Constraint Network for Depth Super-Resolution [pdf](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=iZ3YxM0AAAAJ&sortby=pubdate&citation_for_view=iZ3YxM0AAAAJ:g5m5HwL7SMYC) | TOMM | L|--|
+
 
    ### 2023 Venues
 
@@ -87,6 +90,7 @@ SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map S
 |Learning Continuous Depth Representation via Geometric Spatial Aggregator [pdf](https://arxiv.org/pdf/2212.03499.pdf)|AAAI |L|[Github](https://github.com/nana01219/GeoDSR)|
 |Coarse-to-Fine Depth Super-Resolution with Adaptive RGB-D Feature Attention [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10209231)|TMM| L | --|
 |A^2GSTran: Depth Map Super-resolution via Asymmetric Attention with Guidance Selection [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296875)| TCSVT| L | [Github](https://github.com/alex-cate/Depth_Map_Super-resolution_via_Asymmetric_Attention_with_Guidance_Selection)|
+|C2ANet: Cross-Scale and Cross-Modality Aggregation Network for Scene Depth Super-Resolution [pdf]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296875](https://ieeexplore.ieee.org/abstract/document/10202574))| TMM| L | [Github](https://github.com/iGuoYanjun/C2ANet)|
 
    ### 2022 Venues
 
