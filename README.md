@@ -57,6 +57,12 @@ If you find this project useful, please cite:
    | :---------- | :-------------: | :---------: | :------------: |
    | Explanation | Filtering-based | Prior-based | Learning-based |
 
+
+### 2025 Venuse
+| Title                                                        | Venue | Type |                            Code                             |
+| :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
+DuCos: Duality Constrained Depth Super-Resolution via Foundation Model [pdf](https://arxiv.org/pdf/2503.04171) | ICCV | L|--|
+DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution [pdf](https://arxiv.org/pdf/2410.11666) | CVPR | L|https://github.com/yanzq95/DORNet|
    
 ### 2024 Venuse
 | Title                                                        | Venue | Type |                            Code                             |
