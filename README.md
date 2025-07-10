@@ -72,7 +72,7 @@ Learning Guided Implicit Depth Function With Scale-Aware Feature Fusion [pdf](ht
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |
 SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution [pdf](https://arxiv.org/pdf/2312.05799.pdf) | AAAI | L|[Github](https://github.com/yanzq95/SGNet)|
 Digging into Depth and Color Spaces: A Mapping Constraint Network for Depth Super-Resolution [pdf](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=iZ3YxM0AAAAJ&sortby=pubdate&citation_for_view=iZ3YxM0AAAAJ:g5m5HwL7SMYC) | TOMM | L|--|
-
+Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfolding Network | TIM | L&P| | [Github](https://github.com/mdcnn/EC-DSRNet) 
 
    ### 2023 Venues
 
