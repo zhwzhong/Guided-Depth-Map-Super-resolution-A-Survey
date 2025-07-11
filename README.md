@@ -87,7 +87,7 @@ Joint Discontinuity-Aware Depth Map Super-Resolution via Dual-Tasks Driven Unfol
 |Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution [PDF](https://arxiv.org/pdf/2303.08942.pdf)| ICCV | L&P | -- |
 |Depth Super-Resolution from Explicit and Implicit High-Frequency Features [PDF](https://arxiv.org/pdf/2303.09307.pdf)| arxiv | L | --|
 |Self-Supervised Learning for RGB-Guided Depth Enhancement by Exploiting the Dependency Between RGB and Depth [PDF](https://ieeexplore.ieee.org/document/9975253/) |TIP|L|[Github](https://github.com/wjcyt/SRDE)|
-|RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| --|
+|RGB-Guided Depth Map Recovery by Two-Stage Coarse-to-Fine Dense CRF Models [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043681)| TIP| P| [Github](https://github.com/Wang-xjtu/C2F-DenseCRF-Depth)|
 |Learning Continuous Depth Representation via Geometric Spatial Aggregator [pdf](https://arxiv.org/pdf/2212.03499.pdf)|AAAI |L|[Github](https://github.com/nana01219/GeoDSR)|
 |Coarse-to-Fine Depth Super-Resolution with Adaptive RGB-D Feature Attention [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10209231)|TMM| L | --|
 |A^2GSTran: Depth Map Super-resolution via Asymmetric Attention with Guidance Selection [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296875)| TCSVT| L | [Github](https://github.com/alex-cate/Depth_Map_Super-resolution_via_Asymmetric_Attention_with_Guidance_Selection)|
